@@ -1,0 +1,11 @@
+/* 選取器{屬性:值；} */
+h1{font-size: 8rem;}
+
+/* 類別選取器 */
+.text-red{color:rgb(189, 194, 48);}
+
+/* ID選取器 */
+#important{font-size: 2rem;color:rgba(131, 103, 149, 0.635) ;}
+
+/* 複合選取器 */
+body p{color:rgba(205, 114, 114, 0.883);}
